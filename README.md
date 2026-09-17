@@ -34,7 +34,7 @@ This project is for **ethical, lab-only use** to understand evasion techniques a
 ## Installation
 
 ```bash
-git clone https://github.com/NOT-Z3R0/payload-obfuscation-framework 
+git clone https://github.com/NOT-Z3R0/payload-obfuscation-framework.git
 cd payload-obfuscation-framework
 ```
 
